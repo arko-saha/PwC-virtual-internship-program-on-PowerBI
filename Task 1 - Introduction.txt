@@ -1,0 +1,10 @@
+I am thrilled to have the opportunity to join this virtual experience program, and I am genuinely excited about the learning opportunities this experience promises. I hope to achieve the following objectives from this program:
+
+Working on a real-world problem: I am particularly excited about the prospect of working on a quasi-real-world project. I believe this experience will provide me with valuable hands-on exposure to real-world data analytics challenges, allowing me to apply what I learn in a practical setting. It's an excellent opportunity to bridge the gap between theory and practice.
+
+Gaining exposure to how top companies work: Furthermore, I am eager to observe and learn from PwC, a top-tier company renowned for its expertise in data-related fields. Understanding how leading companies like PwC operate in the realm of data analytics will undoubtedly broaden my horizons and provide invaluable insights into best practices and industry standards.
+
+Improving my data visualization skills: One of my specific goals for this internship is to delve into data visualization techniques. I hope to master the art of creating informative and compelling data visualizations that can effectively communicate insights to stakeholders. Visualizations are pivotal in making data-driven decisions, and I aspire to sharpen this skill during the internship.
+
+Deploying dashboards using relevant KPIs: I want to learn how to deploy Power BI dashboards using relevant KPIs. This will allow me to create dashboards that are tailored to the specific needs of users and provide them with the insights they need to make informed decisions.
+Showcasing my Power BI skills: Finally, I aim to showcase my proficiency in demonstrating my expertise in the Power BI tool. I believe that this internship will be an excellent platform for me to apply what I learn and demonstrate my skills effectively.
